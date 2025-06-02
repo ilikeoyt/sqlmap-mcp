@@ -40,7 +40,7 @@ mcp run sqlmap_mcp_sse.py --transport sse
 
 cherry studio
 
-![image-20250602213138905](D:\笔记\AWD.assets\image-20250602213138905.png)
+![image](https://github.com/user-attachments/assets/c7112cc6-4731-4d0d-abc2-0f4b08a23020)
 
 ### 方法二：基于标准输入输出的任务管理
 
@@ -53,13 +53,13 @@ mcp run sqlmap_mcp_stdio.py
 
 Cursor
 
-![image-20250602213210479](D:\笔记\AWD.assets\image-20250602213210479.png)
+![image](https://github.com/user-attachments/assets/90d57182-109b-4a5e-bf2d-44ec4ccfa74b)
 
 ## 📊 扫描结果示例
 
 ### 漏洞概览
 
-![image-20250602212715377](D:\笔记\AWD.assets\image-20250602212715377.png)
+![image](https://github.com/user-attachments/assets/2116cb49-22d2-4445-bda9-7e7c90e1433e)
 
 ## 📦 代码结构  
 
